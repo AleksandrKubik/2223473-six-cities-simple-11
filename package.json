@@ -1,0 +1,19 @@
+{
+  "name": "2223473-six-cities-simple-11",
+  "version": "1.0.0",
+  "description": "* Студент: [Alexandr Kubanov](https://up.htmlacademy.ru/react/11/user/2223473). * Наставник: `Неизвестно`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrKubik/2223473-six-cities-simple-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrKubik/2223473-six-cities-simple-11/issues"
+  },
+  "homepage": "https://github.com/AleksandrKubik/2223473-six-cities-simple-11#readme"
+}
